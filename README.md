@@ -1,10 +1,9 @@
 Simple template for quick start of project
 ==============
 
-Install
---------------
+**Install**
 
-- npm install && bower install;
+- npm install && bower install
 - gulp watch --dev  
 
 flag --dev  for develop
